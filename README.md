@@ -124,13 +124,13 @@ Currently building production-grade software using Rust, Python and TypeScript, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=github_dark&hide_border=true&v=2" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&theme=github_dark&hide_border=true&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&theme=github_dark&hide_border=true&layout=compact&v=2" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Isllanrx&theme=github-dark-blue&hide_border=true&v=2" />
+<img src="https://streak-stats.demolab.com?user=Isllanrx&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
