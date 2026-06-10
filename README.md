@@ -130,7 +130,7 @@ Currently building production-grade software using Rust, Python and TypeScript, 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Isllanrx&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Isllanrx&theme=github-dark-blue&hide_border=true&v=2" />
 
 </div>
 
