@@ -3,32 +3,34 @@
   <img alt="Isllan Toso — Software Engineer, Full-Stack & Backend" src="./assets/header-light.svg" width="100%">
 </picture>
 
-Full-stack developer building web apps, APIs and desktop tools, from database schema to UI. Software developer at **Globalsys**. Before that, three years of freelance delivery, including a multi-tenant SaaS for vehicle dealerships that runs in production.
+Full-stack developer building web, mobile and desktop software, from database schema to UI. Software developer at **Globalsys**. Before that, three years of freelance delivery, including a multi-tenant SaaS for vehicle dealerships that runs in production.
 
 [isllan.dev](https://isllan.dev) · [LinkedIn](https://www.linkedin.com/in/isllantoso/)
 
 ### Now
 
-- Shipping backend services and integrations at Globalsys (Python, SQL, Databricks)
+- Building a RAG chatbot with a Rust (Axum) backend and React frontend
+- Data integrations and internal tools at Globalsys
 - B.Sc. Computer Science at UVV, graduating 2027
-- Exploring Rust for desktop tooling
 
 ### Stack
 
 | Area | Tools |
 |---|---|
-| Languages | TypeScript · Python · Java · SQL |
-| Frontend | React · Angular · Tailwind · Vite |
-| Backend | Node.js · FastAPI · Spring Boot · REST |
-| Databases | PostgreSQL · MongoDB · Redis |
-| Tooling | Docker · Git · Linux · Azure DevOps |
+| Languages | TypeScript · Rust · Python · Java · SQL |
+| Frontend | React · Next.js · Angular · Tailwind |
+| Mobile | React Native · Expo |
+| Backend | Node.js · Axum · FastAPI · Spring Boot |
+| Databases | PostgreSQL · MongoDB · Redis · Supabase |
+| Tooling | Docker · GitHub Actions · Git · Linux |
 
 ### Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Ifes_Chatbot](https://github.com/Isllanrx/Ifes_Chatbot) | Institutional RAG chatbot with SSE streaming, crawler-based ingestion and full-text retrieval | Rust · Axum · React · PostgreSQL |
 | [Estoquei](https://github.com/Isllanrx/Estoquei) | Messaging platform with JWT auth, real-time chat and media sharing | Angular · Node.js · MongoDB |
-| [webp-converter-tool](https://github.com/Isllanrx/webp-converter-tool) | Batch image conversion to WebP in the browser, with ZIP export | React · TypeScript |
+| [aurora-jewel-app](https://github.com/Isllanrx/aurora-jewel-app) | Mobile storefront with Supabase backend and multilingual UI | React Native · Expo · Supabase |
+| [portfolio-personal](https://github.com/Isllanrx/portfolio-personal) | Source of isllan.dev, feature-sliced and multilingual | Next.js · TypeScript |
 | [vehicle-contract-generator](https://github.com/Isllanrx/vehicle-contract-generator) | Desktop app that generates validated, password-protected PDF contracts | Python |
-| [local-llm-lab](https://github.com/Isllanrx/local-llm-lab) | Desktop client for local LLMs via Ollama, with persistent sessions | Python |
-| [analytics-converter](https://github.com/Isllanrx/analytics-converter) | Converts CSV to Parquet, ORC, Feather and HDF5 | Python · PyArrow |
+| [webp-converter-tool](https://github.com/Isllanrx/webp-converter-tool) | Batch image conversion to WebP in the browser, with ZIP export | React · TypeScript |
