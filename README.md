@@ -1,15 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Isllan Toso — Software Engineer, Data & Backend" src="./assets/header-light.svg" width="100%">
+  <img alt="Isllan Toso — Software Engineer, Full-Stack & Backend" src="./assets/header-light.svg" width="100%">
 </picture>
 
-Software engineer at **Globalsys**, working on data engineering with Databricks: data modeling, real-time integrations and KPI pipelines. Before that, three years of freelance full-stack delivery, including a multi-tenant SaaS for vehicle dealerships.
+Full-stack developer building web apps, APIs and desktop tools, from database schema to UI. Software developer at **Globalsys**. Before that, three years of freelance delivery, including a multi-tenant SaaS for vehicle dealerships that runs in production.
 
 [isllan.dev](https://isllan.dev) · [LinkedIn](https://www.linkedin.com/in/isllantoso/)
 
 ### Now
 
-- Building data pipelines and indicators on Databricks (Python, SQL)
+- Shipping backend services and integrations at Globalsys (Python, SQL, Databricks)
 - B.Sc. Computer Science at UVV, graduating 2027
 - Exploring Rust for desktop tooling
 
@@ -17,18 +17,18 @@ Software engineer at **Globalsys**, working on data engineering with Databricks:
 
 | Area | Tools |
 |---|---|
-| Languages | Python · SQL · Java · TypeScript |
-| Data | Databricks · Pandas · PyArrow · PostgreSQL · MongoDB · Redis |
-| Backend | FastAPI · Spring Boot · Node.js |
-| Frontend | React · Angular · Tailwind |
-| Infra | Docker · Linux · Git · Azure DevOps |
+| Languages | TypeScript · Python · Java · SQL |
+| Frontend | React · Angular · Tailwind · Vite |
+| Backend | Node.js · FastAPI · Spring Boot · REST |
+| Databases | PostgreSQL · MongoDB · Redis |
+| Tooling | Docker · Git · Linux · Azure DevOps |
 
 ### Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
-| [analytics-converter](https://github.com/Isllanrx/analytics-converter) | Converts CSV to Parquet, ORC, Feather and HDF5 | Python · PyArrow |
-| [vehicle-contract-generator](https://github.com/Isllanrx/vehicle-contract-generator) | Generates vehicle sale contracts as validated, password-protected PDFs | Python |
-| [local-llm-lab](https://github.com/Isllanrx/local-llm-lab) | Desktop client for local LLMs via Ollama, with persistent sessions | Python |
 | [Estoquei](https://github.com/Isllanrx/Estoquei) | Messaging platform with JWT auth, real-time chat and media sharing | Angular · Node.js · MongoDB |
 | [webp-converter-tool](https://github.com/Isllanrx/webp-converter-tool) | Batch image conversion to WebP in the browser, with ZIP export | React · TypeScript |
+| [vehicle-contract-generator](https://github.com/Isllanrx/vehicle-contract-generator) | Desktop app that generates validated, password-protected PDF contracts | Python |
+| [local-llm-lab](https://github.com/Isllanrx/local-llm-lab) | Desktop client for local LLMs via Ollama, with persistent sessions | Python |
+| [analytics-converter](https://github.com/Isllanrx/analytics-converter) | Converts CSV to Parquet, ORC, Feather and HDF5 | Python · PyArrow |
